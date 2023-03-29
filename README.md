@@ -1,2 +1,2 @@
 # Imersao-Java
-Atividades feitas durante a imersão Java da Alura.
+Aplicativo que gera figurinhas com base em imagens resgatas por uma API
