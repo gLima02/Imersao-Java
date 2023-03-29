@@ -1,2 +1,2 @@
 # Imersao-Java
-Atividades feitas durante a imersão Java da Alura.
+app que lista o top10 filmes de acordo com uma API
