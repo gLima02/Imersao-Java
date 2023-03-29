@@ -1,2 +1,2 @@
 # Imersao-Java
-Imersão Java - Alura
+Atividades feitas durante a imersão Java da Alura.
