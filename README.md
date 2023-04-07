@@ -1,2 +1,2 @@
 # Imersao-Java
-Atividades feitas durante a imersão Java da Alura.
+O APP é um gerador de figurinhas feito com bibliotecas nativas do Java.
